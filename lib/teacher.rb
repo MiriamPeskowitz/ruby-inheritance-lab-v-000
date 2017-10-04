@@ -10,7 +10,7 @@ class  Teacher < User
 
   def last_name(name)
     @last_name = name
-    
+
 
   def teach
     KNOWLEDGE.sample
