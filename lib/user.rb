@@ -7,8 +7,4 @@ class User
       @last_name = last_name
   end
 
-
-  def Jim
-      jim = User.new("Jim Wigs")
-  end
 end
